@@ -23,7 +23,7 @@
 public class AnshulDeoli extends BackendDeveloper {
 
     String name        = "Anshul Deoli";
-    String degree      = "B.Tech CSE — IoT Gopeshwar (2025)";
+    String degree      = "B.Tech CSE — IT Gopeshwar (2025)";
     String focus       = "Java Backend Development";
     String[] learning  = {"Spring Boot", "JPA/Hibernate", "Microservices", "System Design"};
     String building    = "JOB-OPS — AI job search automation for Indian freshers";
